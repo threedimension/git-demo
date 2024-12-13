@@ -1,9 +1,5 @@
 innnnnn 
 2222222222222
 333333
-<<<<<<< HEAD
 333333 master
-=======
 333333 hotfix test
->>>>>>> hot-fix
-
